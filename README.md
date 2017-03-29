@@ -1,4 +1,4 @@
-Implemented an imporved Secure Socket Communication protocol.
+Implemented an improved Secure Socket Communication protocol.
 
 In the improved security protocol, the process is done in 3 steps.
 
